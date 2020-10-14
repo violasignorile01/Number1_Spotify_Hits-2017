@@ -37,14 +37,15 @@ Data Munging was completed in Python. The ETL process was crucial for data stora
 
 ## Dashboard Development Process
 
-Northwestern purple -> spotify green -> black background 
+![dash_process.png](dash_process.png)
+
+Northwestern purple -> spotify green -> black background
 
 * Focused on creating a visually pleasing and theme aligned, but still easy to read dashboard 
 * Changed the titles to be more specific to the data but still easier to understand, wanted the titles to be accurate but the most simplified they could be
 * The goal was to be concise and user friendly
 * Ended with choosing titles and colors that we believed told our story best
 * Drop down menu allows user to search for a specific date and see what song was top on that day and all of the details the data provides 
-
 
 
 ![dash.png](dash.png)

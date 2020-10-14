@@ -13,4 +13,4 @@ Life of #1 Song in U.S.
   * Number of streams by date
 
 
-![final_dashboard.png](final_dashboard.png)
+![dash.png](dash.png)

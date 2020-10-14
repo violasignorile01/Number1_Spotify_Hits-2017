@@ -24,8 +24,26 @@ Data Munging was completed in Python. The ETL process was crucial for data stora
 7. Create Engine
 8. Use “to_sql” to Load Data
 
+## Coding Approach 
 
+1. Find Data 
+2. Mung Data
+3. Create & Load Database
+4. Create HTML
+5. Create Mock Flask Routes in Jupyter Notebook
+6. Create Flask Routes
+7. Create Dashboard using JS
+8. Apply CSS Styling with jQuery
 
+## Dashboard Development Process
+
+Northwestern purple -> spotify green -> black background 
+
+* Focused on creating a visually pleasing and theme aligned, but still easy to read dashboard 
+* Changed the titles to be more specific to the data but still easier to understand, wanted the titles to be accurate but the most simplified they could be
+* The goal was to be concise and user friendly
+* Ended with choosing titles and colors that we believed told our story best
+* Drop down menu allows user to search for a specific date and see what song was top on that day and all of the details the data provides 
 
 
 

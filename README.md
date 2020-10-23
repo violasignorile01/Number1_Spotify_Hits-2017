@@ -37,7 +37,7 @@ Data Munging was completed in Python. The ETL process was crucial for data stora
 
 ## Dashboard Development Process
 
-![dash_process.png](/Images/dash_process.png)
+![Dash Process](https://github.com/violasignorile01/Number1_Spotify_Hits-2017/blob/master/Images%20/dash_process.png)
 
 Northwestern purple -> spotify green -> black background
 
@@ -48,4 +48,4 @@ Northwestern purple -> spotify green -> black background
 * Drop down menu allows user to search for a specific date and see what song was top on that day and all of the details the data provides 
 
 
-![dash.png](/Images/dash.png)
+![Dash](https://github.com/violasignorile01/Number1_Spotify_Hits-2017/blob/master/Images%20/dash.png)
